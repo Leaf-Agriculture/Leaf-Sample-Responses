@@ -8,8 +8,9 @@ At the same time we provide raw NDVI so you can apply your color-ramp or you can
 
 Example Field image (RGB PNG) and colored NDVI (PNG)
 
-![field RGB PNG](/images_returned/NDVI_color.png)
-![field RGB PN](/images_returned/RGB.png)
+![field RGB PNG](https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/FH/2020/6/3/0/RGB.png)
+
+![field NDVI Colored](https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/FH/2020/6/3/0/NDVI.png)
 
 
 
