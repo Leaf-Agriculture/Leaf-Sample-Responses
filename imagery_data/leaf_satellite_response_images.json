@@ -1,0 +1,770 @@
+[
+    {
+        "date": "2020-06-03T19:03:57.882Z",
+        "clouds": 0.0,
+        "bucketName": "sentinel-s2-l1c",
+        "bucketKey": "tiles/10/S/FH/2020/6/3/0",
+        "bucketRegion": "eu-central-1",
+        "status": "SUCCESS",
+        "coverage": 100.0,
+        "images": [
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/FH/2020/6/3/0/B08.tif",
+                "type": "tif",
+                "resolution": 10.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/FH/2020/6/3/0/B09.tif",
+                "type": "tif",
+                "resolution": 60.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/FH/2020/6/3/0/B10.tif",
+                "type": "tif",
+                "resolution": 60.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/FH/2020/6/3/0/B11.tif",
+                "type": "tif",
+                "resolution": 20.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/FH/2020/6/3/0/B12.tif",
+                "type": "tif",
+                "resolution": 20.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/FH/2020/6/3/0/RGB.tif",
+                "type": "tif_colorized",
+                "resolution": 10.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/FH/2020/6/3/0/RGB.png",
+                "type": "png",
+                "resolution": null
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/FH/2020/6/3/0/NDVI.tif",
+                "type": "ndvi",
+                "resolution": 10.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/FH/2020/6/3/0/NDVI_color.tif",
+                "type": "tif_colorized",
+                "resolution": 10.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/FH/2020/6/3/0/NDVI.png",
+                "type": "png",
+                "resolution": null
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/FH/2020/6/3/0/B01.tif",
+                "type": "tif",
+                "resolution": 60.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/FH/2020/6/3/0/B02.tif",
+                "type": "tif",
+                "resolution": 10.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/FH/2020/6/3/0/B03.tif",
+                "type": "tif",
+                "resolution": 10.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/FH/2020/6/3/0/B04.tif",
+                "type": "tif",
+                "resolution": 10.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/FH/2020/6/3/0/B05.tif",
+                "type": "tif",
+                "resolution": 20.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/FH/2020/6/3/0/B06.tif",
+                "type": "tif",
+                "resolution": 20.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/FH/2020/6/3/0/B07.tif",
+                "type": "tif",
+                "resolution": 20.0
+            }
+        ]
+    },
+    {
+        "date": "2020-06-03T19:03:43.546Z",
+        "clouds": 0.0,
+        "bucketName": "sentinel-s2-l1c",
+        "bucketKey": "tiles/10/S/FJ/2020/6/3/0",
+        "bucketRegion": "eu-central-1",
+        "status": "SUCCESS",
+        "coverage": 100.0,
+        "images": [
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/FJ/2020/6/3/0/B07.tif",
+                "type": "tif",
+                "resolution": 20.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/FJ/2020/6/3/0/NDVI.tif",
+                "type": "ndvi",
+                "resolution": 10.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/FJ/2020/6/3/0/B08.tif",
+                "type": "tif",
+                "resolution": 10.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/FJ/2020/6/3/0/NDVI_color.tif",
+                "type": "tif_colorized",
+                "resolution": 10.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/FJ/2020/6/3/0/B09.tif",
+                "type": "tif",
+                "resolution": 60.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/FJ/2020/6/3/0/NDVI.png",
+                "type": "png",
+                "resolution": null
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/FJ/2020/6/3/0/B01.tif",
+                "type": "tif",
+                "resolution": 60.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/FJ/2020/6/3/0/B02.tif",
+                "type": "tif",
+                "resolution": 10.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/FJ/2020/6/3/0/B10.tif",
+                "type": "tif",
+                "resolution": 60.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/FJ/2020/6/3/0/B03.tif",
+                "type": "tif",
+                "resolution": 10.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/FJ/2020/6/3/0/B11.tif",
+                "type": "tif",
+                "resolution": 20.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/FJ/2020/6/3/0/B04.tif",
+                "type": "tif",
+                "resolution": 10.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/FJ/2020/6/3/0/B12.tif",
+                "type": "tif",
+                "resolution": 20.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/FJ/2020/6/3/0/B05.tif",
+                "type": "tif",
+                "resolution": 20.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/FJ/2020/6/3/0/RGB.tif",
+                "type": "tif_colorized",
+                "resolution": 10.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/FJ/2020/6/3/0/B06.tif",
+                "type": "tif",
+                "resolution": 20.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/FJ/2020/6/3/0/RGB.png",
+                "type": "png",
+                "resolution": null
+            }
+        ]
+    },
+    {
+        "date": "2020-06-03T19:04:01.207Z",
+        "clouds": 0.0,
+        "bucketName": "sentinel-s2-l1c",
+        "bucketKey": "tiles/10/S/EH/2020/6/3/0",
+        "bucketRegion": "eu-central-1",
+        "status": "SUCCESS",
+        "coverage": 100.0,
+        "images": [
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/EH/2020/6/3/0/B05.tif",
+                "type": "tif",
+                "resolution": 20.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/EH/2020/6/3/0/RGB.tif",
+                "type": "tif_colorized",
+                "resolution": 10.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/EH/2020/6/3/0/B06.tif",
+                "type": "tif",
+                "resolution": 20.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/EH/2020/6/3/0/RGB.png",
+                "type": "png",
+                "resolution": null
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/EH/2020/6/3/0/B07.tif",
+                "type": "tif",
+                "resolution": 20.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/EH/2020/6/3/0/NDVI.tif",
+                "type": "ndvi",
+                "resolution": 10.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/EH/2020/6/3/0/B08.tif",
+                "type": "tif",
+                "resolution": 10.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/EH/2020/6/3/0/NDVI_color.tif",
+                "type": "tif_colorized",
+                "resolution": 10.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/EH/2020/6/3/0/B09.tif",
+                "type": "tif",
+                "resolution": 60.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/EH/2020/6/3/0/NDVI.png",
+                "type": "png",
+                "resolution": null
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/EH/2020/6/3/0/B01.tif",
+                "type": "tif",
+                "resolution": 60.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/EH/2020/6/3/0/B10.tif",
+                "type": "tif",
+                "resolution": 60.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/EH/2020/6/3/0/B02.tif",
+                "type": "tif",
+                "resolution": 10.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/EH/2020/6/3/0/B03.tif",
+                "type": "tif",
+                "resolution": 10.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/EH/2020/6/3/0/B11.tif",
+                "type": "tif",
+                "resolution": 20.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/EH/2020/6/3/0/B04.tif",
+                "type": "tif",
+                "resolution": 10.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/EH/2020/6/3/0/B12.tif",
+                "type": "tif",
+                "resolution": 20.0
+            }
+        ]
+    },
+    {
+        "date": "2020-06-03T19:03:46.754Z",
+        "clouds": 0.0,
+        "bucketName": "sentinel-s2-l1c",
+        "bucketKey": "tiles/10/S/EJ/2020/6/3/0",
+        "bucketRegion": "eu-central-1",
+        "status": "SUCCESS",
+        "coverage": 100.0,
+        "images": [
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/EJ/2020/6/3/0/B04.tif",
+                "type": "tif",
+                "resolution": 10.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/EJ/2020/6/3/0/B12.tif",
+                "type": "tif",
+                "resolution": 20.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/EJ/2020/6/3/0/B05.tif",
+                "type": "tif",
+                "resolution": 20.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/EJ/2020/6/3/0/RGB.tif",
+                "type": "tif_colorized",
+                "resolution": 10.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/EJ/2020/6/3/0/B06.tif",
+                "type": "tif",
+                "resolution": 20.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/EJ/2020/6/3/0/RGB.png",
+                "type": "png",
+                "resolution": null
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/EJ/2020/6/3/0/B07.tif",
+                "type": "tif",
+                "resolution": 20.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/EJ/2020/6/3/0/NDVI.tif",
+                "type": "ndvi",
+                "resolution": 10.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/EJ/2020/6/3/0/B08.tif",
+                "type": "tif",
+                "resolution": 10.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/EJ/2020/6/3/0/NDVI_color.tif",
+                "type": "tif_colorized",
+                "resolution": 10.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/EJ/2020/6/3/0/B01.tif",
+                "type": "tif",
+                "resolution": 60.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/EJ/2020/6/3/0/B09.tif",
+                "type": "tif",
+                "resolution": 60.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/EJ/2020/6/3/0/NDVI.png",
+                "type": "png",
+                "resolution": null
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/EJ/2020/6/3/0/B02.tif",
+                "type": "tif",
+                "resolution": 10.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/EJ/2020/6/3/0/B10.tif",
+                "type": "tif",
+                "resolution": 60.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/EJ/2020/6/3/0/B03.tif",
+                "type": "tif",
+                "resolution": 10.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/EJ/2020/6/3/0/B11.tif",
+                "type": "tif",
+                "resolution": 20.0
+            }
+        ]
+    },
+    {
+        "date": "2020-06-08T19:03:42.672Z",
+        "clouds": 0.0,
+        "bucketName": "sentinel-s2-l1c",
+        "bucketKey": "tiles/10/S/EJ/2020/6/8/0",
+        "bucketRegion": "eu-central-1",
+        "status": "SUCCESS",
+        "coverage": 100.0,
+        "images": [
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/EJ/2020/6/8/0/B12.tif",
+                "type": "tif",
+                "resolution": 20.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/EJ/2020/6/8/0/B04.tif",
+                "type": "tif",
+                "resolution": 10.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/EJ/2020/6/8/0/RGB.tif",
+                "type": "tif_colorized",
+                "resolution": 10.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/EJ/2020/6/8/0/B05.tif",
+                "type": "tif",
+                "resolution": 20.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/EJ/2020/6/8/0/RGB.png",
+                "type": "png",
+                "resolution": null
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/EJ/2020/6/8/0/B06.tif",
+                "type": "tif",
+                "resolution": 20.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/EJ/2020/6/8/0/NDVI.tif",
+                "type": "ndvi",
+                "resolution": 10.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/EJ/2020/6/8/0/B07.tif",
+                "type": "tif",
+                "resolution": 20.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/EJ/2020/6/8/0/NDVI_color.tif",
+                "type": "tif_colorized",
+                "resolution": 10.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/EJ/2020/6/8/0/NDVI.png",
+                "type": "png",
+                "resolution": null
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/EJ/2020/6/8/0/B08.tif",
+                "type": "tif",
+                "resolution": 10.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/EJ/2020/6/8/0/B09.tif",
+                "type": "tif",
+                "resolution": 60.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/EJ/2020/6/8/0/B01.tif",
+                "type": "tif",
+                "resolution": 60.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/EJ/2020/6/8/0/B10.tif",
+                "type": "tif",
+                "resolution": 60.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/EJ/2020/6/8/0/B02.tif",
+                "type": "tif",
+                "resolution": 10.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/EJ/2020/6/8/0/B11.tif",
+                "type": "tif",
+                "resolution": 20.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/EJ/2020/6/8/0/B03.tif",
+                "type": "tif",
+                "resolution": 10.0
+            }
+        ]
+    },
+    {
+        "date": "2020-06-08T19:03:57.119Z",
+        "clouds": 0.0,
+        "bucketName": "sentinel-s2-l1c",
+        "bucketKey": "tiles/10/S/EH/2020/6/8/0",
+        "bucketRegion": "eu-central-1",
+        "status": "SUCCESS",
+        "coverage": 100.0,
+        "images": [
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/EH/2020/6/8/0/B06.tif",
+                "type": "tif",
+                "resolution": 20.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/EH/2020/6/8/0/NDVI.png",
+                "type": "png",
+                "resolution": null
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/EH/2020/6/8/0/B07.tif",
+                "type": "tif",
+                "resolution": 20.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/EH/2020/6/8/0/B08.tif",
+                "type": "tif",
+                "resolution": 10.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/EH/2020/6/8/0/B09.tif",
+                "type": "tif",
+                "resolution": 60.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/EH/2020/6/8/0/B10.tif",
+                "type": "tif",
+                "resolution": 60.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/EH/2020/6/8/0/B11.tif",
+                "type": "tif",
+                "resolution": 20.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/EH/2020/6/8/0/B12.tif",
+                "type": "tif",
+                "resolution": 20.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/EH/2020/6/8/0/B01.tif",
+                "type": "tif",
+                "resolution": 60.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/EH/2020/6/8/0/RGB.tif",
+                "type": "tif_colorized",
+                "resolution": 10.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/EH/2020/6/8/0/B02.tif",
+                "type": "tif",
+                "resolution": 10.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/EH/2020/6/8/0/B03.tif",
+                "type": "tif",
+                "resolution": 10.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/EH/2020/6/8/0/RGB.png",
+                "type": "png",
+                "resolution": null
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/EH/2020/6/8/0/B04.tif",
+                "type": "tif",
+                "resolution": 10.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/EH/2020/6/8/0/NDVI.tif",
+                "type": "ndvi",
+                "resolution": 10.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/EH/2020/6/8/0/B05.tif",
+                "type": "tif",
+                "resolution": 20.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/EH/2020/6/8/0/NDVI_color.tif",
+                "type": "tif_colorized",
+                "resolution": 10.0
+            }
+        ]
+    },
+    {
+        "date": "2020-06-08T19:03:39.467Z",
+        "clouds": 0.0,
+        "bucketName": "sentinel-s2-l1c",
+        "bucketKey": "tiles/10/S/FJ/2020/6/8/0",
+        "bucketRegion": "eu-central-1",
+        "status": "SUCCESS",
+        "coverage": 100.0,
+        "images": [
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/FJ/2020/6/8/0/B03.tif",
+                "type": "tif",
+                "resolution": 10.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/FJ/2020/6/8/0/B11.tif",
+                "type": "tif",
+                "resolution": 20.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/FJ/2020/6/8/0/B04.tif",
+                "type": "tif",
+                "resolution": 10.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/FJ/2020/6/8/0/B12.tif",
+                "type": "tif",
+                "resolution": 20.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/FJ/2020/6/8/0/RGB.tif",
+                "type": "tif_colorized",
+                "resolution": 10.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/FJ/2020/6/8/0/B05.tif",
+                "type": "tif",
+                "resolution": 20.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/FJ/2020/6/8/0/RGB.png",
+                "type": "png",
+                "resolution": null
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/FJ/2020/6/8/0/B06.tif",
+                "type": "tif",
+                "resolution": 20.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/FJ/2020/6/8/0/NDVI.tif",
+                "type": "ndvi",
+                "resolution": 10.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/FJ/2020/6/8/0/B07.tif",
+                "type": "tif",
+                "resolution": 20.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/FJ/2020/6/8/0/NDVI_color.tif",
+                "type": "tif_colorized",
+                "resolution": 10.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/FJ/2020/6/8/0/B08.tif",
+                "type": "tif",
+                "resolution": 10.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/FJ/2020/6/8/0/NDVI.png",
+                "type": "png",
+                "resolution": null
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/FJ/2020/6/8/0/B09.tif",
+                "type": "tif",
+                "resolution": 60.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/FJ/2020/6/8/0/B01.tif",
+                "type": "tif",
+                "resolution": 60.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/FJ/2020/6/8/0/B02.tif",
+                "type": "tif",
+                "resolution": 10.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/FJ/2020/6/8/0/B10.tif",
+                "type": "tif",
+                "resolution": 60.0
+            }
+        ]
+    },
+    {
+        "date": "2020-06-08T19:03:53.801Z",
+        "clouds": 0.0,
+        "bucketName": "sentinel-s2-l1c",
+        "bucketKey": "tiles/10/S/FH/2020/6/8/0",
+        "bucketRegion": "eu-central-1",
+        "status": "SUCCESS",
+        "coverage": 100.0,
+        "images": [
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/FH/2020/6/8/0/B02.tif",
+                "type": "tif",
+                "resolution": 10.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/FH/2020/6/8/0/B11.tif",
+                "type": "tif",
+                "resolution": 20.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/FH/2020/6/8/0/B03.tif",
+                "type": "tif",
+                "resolution": 10.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/FH/2020/6/8/0/B12.tif",
+                "type": "tif",
+                "resolution": 20.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/FH/2020/6/8/0/B04.tif",
+                "type": "tif",
+                "resolution": 10.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/FH/2020/6/8/0/RGB.tif",
+                "type": "tif_colorized",
+                "resolution": 10.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/FH/2020/6/8/0/B05.tif",
+                "type": "tif",
+                "resolution": 20.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/FH/2020/6/8/0/RGB.png",
+                "type": "png",
+                "resolution": null
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/FH/2020/6/8/0/B06.tif",
+                "type": "tif",
+                "resolution": 20.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/FH/2020/6/8/0/NDVI.tif",
+                "type": "ndvi",
+                "resolution": 10.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/FH/2020/6/8/0/B07.tif",
+                "type": "tif",
+                "resolution": 20.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/FH/2020/6/8/0/NDVI_color.tif",
+                "type": "tif_colorized",
+                "resolution": 10.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/FH/2020/6/8/0/B08.tif",
+                "type": "tif",
+                "resolution": 10.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/FH/2020/6/8/0/NDVI.png",
+                "type": "png",
+                "resolution": null
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/FH/2020/6/8/0/B09.tif",
+                "type": "tif",
+                "resolution": 60.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/FH/2020/6/8/0/B01.tif",
+                "type": "tif",
+                "resolution": 60.0
+            },
+            {
+                "url": "https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/FH/2020/6/8/0/B10.tif",
+                "type": "tif",
+                "resolution": 60.0
+            }
+        ]
+    }
+]
