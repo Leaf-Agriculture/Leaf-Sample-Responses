@@ -1,4 +1,9 @@
-Here you can find an example response from Leaf's Machine Data API. 
+Here you can find example responses from Leaf's API. 
+
+Inside "satellite" you can find example responses from Leaf's Satellite API.
+Responses like your fields' RGB PNG, colored NDVIs, raw NDVIS so you can apply your color ramp, being tif or PNG, and even individual bands so you can calculate your indexes.
+
+Inside "machine_data" you can find example responses from Leaf's Machine Data API. 
 The response contains the original file, conversion files, data translated into a unified machine data model, rendered images of the operation, summary data of the operation, polygon of the area, and more. We've added each file generated in this repository for easy viewing.
 
 For our quickstart Postman collection, go to https://github.com/Leaf-Agriculture/Leaf-quickstart-Postman-collection  
