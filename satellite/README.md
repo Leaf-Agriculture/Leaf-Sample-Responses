@@ -8,8 +8,8 @@ At the same time we provide raw NDVI so you can apply your color-ramp or you can
 
 Example Field image (RGB PNG) and colored NDVI (PNG)
 
-!(field RGB PNG)[/images_returned/NDVI_color.png]
-!(field RGB PNG)[/images_returned/RGB.png]
+![field RGB PNG](/images_returned/NDVI_color.png)
+![field RGB PN](/images_returned/RGB.png)
 
 
 
