@@ -6,11 +6,10 @@ The ones starting with a capital "B" are the individual satellite bands, so you 
 
 At the same time we provide raw NDVI so you can apply your color-ramp or you can use ours.
 
-Example Field image (RGB PNG) and colored NDVI (PNG)
+Example Field image (RGB PNG) and colored NDVI (PNG):
 
-![field RGB PNG](https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/FH/2020/6/3/0/RGB.png?raw=true)
-
-![field NDVI Colored](https://monitoredfields-prd-imagesbucket-1l67seopwr9ra.s3.eu-central-1.amazonaws.com/91/tiles/10/S/FH/2020/6/3/0/NDVI.png)
+![field RGB PNG](https://media.discordapp.net/attachments/586305500434661376/718537578542006292/unknown.png)_________
+![field NDVI Colored](https://media.discordapp.net/attachments/586305500434661376/718537702873497651/unknown.png)
 
 
 
