@@ -7,7 +7,7 @@ Our docs are available at https://dev.agrigate.io/#introduction
 
 
 
-
+Example response from Leaf's API:
 
 ``` json
 {
