@@ -1,6 +1,9 @@
 Here you can find an example response from Leaf's Machine Data API. 
 The response contains the original file, conversion files, data translated into a unified machine data model, rendered images of the operation, summary data of the operation, polygon of the area, and more. We've added each file generated in this repository for easy viewing.
 
+For our quickstart Postman collection, go to https://github.com/Leaf-Agriculture/Leaf-quickstart-Postman-collection 
+Our docs are available at https://dev.agrigate.io/#introduction
+
 
 
 
