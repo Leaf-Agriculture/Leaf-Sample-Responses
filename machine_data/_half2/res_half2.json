@@ -1,0 +1,76 @@
+{
+  "id": "7036a180-0609-434b-b797-ce7e3a674f25",
+  "provider": "Leaf",
+  "originalFile": "https://leaf-onboarding.s3.us-west-2.amazonaws.com/sample/050221cb-2574-4407-9ef4-120e0f015dd6.json",
+  "rawGeojson": "https://leaf-onboarding.s3.us-west-2.amazonaws.com/sample/d62ac85e-d9f2-41e3-8792-a7a60d634d94.json",
+  "standardGeojson": "https://leaf-onboarding.s3.us-west-2.amazonaws.com/sample/46aecdde-45ef-4608-ba66-e738d2ba994f.json",
+  "zippedPNGs": "https://leaf-onboarding.s3.us-west-2.amazonaws.com/sample/468a0c16-d3b6-41e5-a2a6-825688e92563.zip",
+  "leafUserId": "ad2ad025-5bcd-42a6-9b04-002c4dff76a3",
+  "apiOwnerUsername": "onboarding4",
+  "summary": {
+    "type": "Feature",
+    "properties": {
+      "operationType": "harvested",
+      "crop": [
+        "corn"
+      ],
+      "yieldVolume": {
+        "average": 0.12456046887916082,
+        "standardDeviation": 0.016666965058771775,
+        "min": 0.07471203674274966,
+        "max": 0.16406538098385073
+      },
+      "totalArea": 330516.9944610239,
+      "totalDistance": 378216.94683887274,
+      "speed": {
+        "average": 3.610028854225708,
+        "standardDeviation": 0.9769042972426402,
+        "min": 0.0,
+        "max": 6.690000057220459
+      },
+      "elevation": {
+        "average": 194.07097083980793,
+        "standardDeviation": 3.6209755714361793,
+        "min": 192.6,
+        "max": 360.9
+      }
+    },
+    "geometry": {
+      "type": "MultiPolygon",
+      "coordinates": [
+        [
+          [
+            [-89.834466,39.719631],
+            [-89.834503,39.719698],
+            [-89.834532,39.719758],
+            [-89.83471,39.72636],
+            [-89.834647,39.726401],
+            [-89.834643,39.726403],
+            [-89.834634,39.726407],
+            [-89.834624,39.726411],
+            [-89.834615,39.726414],
+            [-89.829956,39.72758],
+            [-89.829946,39.727569],
+            [-89.829938,39.727552],
+            [-89.829936,39.727543],
+            [-89.829935,39.727534],
+            [-89.829872,39.72007],
+            [-89.829872,39.720012],
+            [-89.829879,39.71978],
+            [-89.829888,39.71968],
+            [-89.829892,39.719679],
+            [-89.829948,39.719672],
+            [-89.834465,39.719631],
+            [-89.834466,39.719631]
+          ]
+        ]
+      ]
+    }
+  },
+  "sourceFiles": [],
+  "status": "processed",
+  "origin": "uploaded",
+  "createdTime": "2020-08-10T16:45:03.804",
+  "operationStartTime": "2019-10-22T19:33:08.8",
+  "operationEndTime": "2019-10-23T03:04:41.4"
+}
