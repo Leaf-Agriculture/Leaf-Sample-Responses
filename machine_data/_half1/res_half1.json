@@ -10,6 +10,7 @@
   "summary": {
     "type": "Feature",
     "properties": {
+      "operationType": "harvested",
       "crop": [
         "corn"
       ],
@@ -19,7 +20,6 @@
         "min": 0.08003699424225318,
         "max": 0.14871901586739797
       },
-      "operationType": "harvested",
       "totalArea": 138653.14654815884,
       "totalDistance": 204195.61941913306,
       "speed": {
