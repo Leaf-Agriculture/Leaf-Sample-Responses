@@ -6,9 +6,9 @@ Responses like your fields' RGB PNG, colored NDVIs, raw NDVIS so you can apply y
 Inside **"machine_data"** you can find example responses from Leaf's Machine Data API.
 The response contains the original file, conversion files, data translated into a unified machine data model, rendered images of the operation, summary data of the operation, polygon of the area, and more. We've added each file generated in this repository for easy viewing.
 
-For our quickstart Postman collection, go to https://github.com/Leaf-Agriculture/Leaf-quickstart-Postman-collection  
+For our quickstart Postman collection, please see https://github.com/Leaf-Agriculture/Leaf-quickstart-Postman-collection
 
-Our docs are available at https://dev.agrigate.io/#introduction
+Our full docs are available here: https://dev.agrigate.io/#introduction
 
 
 
